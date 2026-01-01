@@ -1,0 +1,5 @@
+{
+  "name": "Universal Quantum Notebook",
+  "description": "A next-generation interactive notebook environment supporting multi-language kernels, AI integration, rich visualizations, collaborative whiteboarding, and real-time data analysis.",
+  "requestFramePermissions": []
+}
